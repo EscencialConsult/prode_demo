@@ -43,7 +43,7 @@ export default function HomeHero() {
           backgroundImage: "linear-gradient(180deg,rgba(5,9,15,.55) 0%,rgba(12,24,43,.78) 55%,rgba(12,24,43,.96) 100%), url('./imgprode/fondo-banner.png')",
           backgroundSize: 'cover',
           backgroundPosition: 'center 30%',
-          paddingTop: 'clamp(80px, 10vh, 120px)',
+          paddingTop: 'clamp(120px, 14vh, 160px)',
           paddingBottom: 'clamp(60px, 8vh, 100px)',
         }}>
 
